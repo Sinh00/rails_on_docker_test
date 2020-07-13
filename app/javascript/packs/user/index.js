@@ -4,6 +4,6 @@ function output_alert() {
 
 $(document).ready( function() {
   $("#t_btn").click(function(){
-    alert("hello");
+    alert("hello-test");
   });
 });
